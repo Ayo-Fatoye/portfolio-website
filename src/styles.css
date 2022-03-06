@@ -135,6 +135,14 @@ p {
     padding: 80px;
 }
 
+#projects {
+    padding: 1%;
+}
+
+#about-me {
+    padding-bottom: 1%;
+}
+
 .headshot {
     width: 250px;
     border-radius: 150px;
